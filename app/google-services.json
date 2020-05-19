@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "327690112289",
+    "firebase_url": "https://loginfirebaseccc.firebaseio.com",
+    "project_id": "loginfirebaseccc",
+    "storage_bucket": "loginfirebaseccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327690112289:android:f59d54efe396cea8560260",
+        "android_client_info": {
+          "package_name": "com.example.taller2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327690112289-9ku6rf29b1sjstvvnj85t8a0d268mrc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taller2",
+            "certificate_hash": "c772cfc41d15861a601dd479d513ad91b5273af0"
+          }
+        },
+        {
+          "client_id": "327690112289-a6ih3af0rt975uq25i8g0s027cl10ndp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcH5TDGf42UQvAqEhFI67DuE25gmpCC_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327690112289-a6ih3af0rt975uq25i8g0s027cl10ndp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
